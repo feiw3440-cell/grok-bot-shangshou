@@ -1,0 +1,7 @@
+*.pdf
+preview.html
+build_pdf.py
+montage.png
+pv-*.png
+raw/
+.DS_Store
